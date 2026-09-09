@@ -1,6 +1,6 @@
-# Md. Raian Islam — Engineer Portfolio
+# Md. Raian Islam Portfolio
 
-Premium static portfolio for GitHub Pages.
+Premium static portfolio for Weyland Technologies Inc.
 
 **Target site:** `https://weylandx.github.io`
 
